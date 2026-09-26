@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.donnishcomau.snote",
+  "name": "snote",
+  "version": "0.1.0",
+  "author": "qteamdon",
+  "license": "MIT",
+  "homepage": "https://github.com/donnishcomau/snote",
+  "description": "Bar button that launches snote, a Simplenote client for your terminal.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "snote",
+    "description": "Launch snote, a Simplenote client for your terminal.",
+    "category": "Productivity",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
