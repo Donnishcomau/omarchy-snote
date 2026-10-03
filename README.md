@@ -1,3 +1,5 @@
+> **Moved:** this plugin now lives in the snote repository itself, at https://github.com/donnishcomau/snote, and is listed on the Omarchy plugin marketplace as `io.github.donnishcomau.snote-simplenote`. This repository is archived.
+
 # snote bar widget
 
 Omarchy Quattro bar widget for [snote](https://github.com/donnishcomau/snote), a
